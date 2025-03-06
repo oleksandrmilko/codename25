@@ -31,11 +31,12 @@ Interesting links:
 1) [link to Trello Management Board(until Summer 2024)](https://drive.google.com/file/d/1D_77hu8ViCSUsE9VgCZHz5eRHnrW9n-t/view?usp=drive_link)
 2) [Vistager GUI designs](https://drive.google.com/drive/folders/1Cazuc5iVGiiXAm5qTrWJFHxfz-xQVH81?usp=sharing)
 3) [link to Miro flowchart](https://miro.com/app/board/uXjVLV9t9UI=/?share_link_id=722076167204)
-4) [Last tests from November - December of 2024 for Bedrooms](https://drive.google.com/drive/folders/1h40hiGPe5YR-0qQE-AkL4Wa5tM2Z_DqJ?usp=drive_link)
-5) [Some of the good results we got with postprocessing](https://drive.google.com/drive/folders/1RD0QD8b955mVSouCyZdUKc254pT331rT?usp=drive_link)
-6) links to Backend DockerHub and Github(Made by Sviatoslav): [auth-service](https://hub.docker.com/r/1aughingbird543/auth-service), [email-service](https://hub.docker.com/r/1aughingbird543/email-service), [api-gateway](https://hub.docker.com/r/1aughingbird543/api-gateway), [ai-queue](https://hub.docker.com/r/1aughingbird543/ai-queue), [Backend Github](https://github.com/Codename25)
-7) links to Frontend(Made by Illia): [illiamartynov/startup](https://github.com/illiamartynov/startup)
-8) [link for testing scripts](https://github.com/AlexandrMilko/codename25other)
+4) [link to System Design(incomplete)](https://lucid.app/lucidchart/9e1b8036-8111-41ff-837b-68fa5ffca052/edit?viewport_loc=-2678%2C-89%2C4657%2C2534%2C0_0&invitationId=inv_d4885c0e-adf3-4d0a-a620-feb172e69674)
+5) [Last tests from November - December of 2024 for Bedrooms](https://drive.google.com/drive/folders/1h40hiGPe5YR-0qQE-AkL4Wa5tM2Z_DqJ?usp=drive_link)
+6) [Some of the good results we got with postprocessing](https://drive.google.com/drive/folders/1RD0QD8b955mVSouCyZdUKc254pT331rT?usp=drive_link)
+7) links to Backend DockerHub and Github(Made by Sviatoslav): [auth-service](https://hub.docker.com/r/1aughingbird543/auth-service), [email-service](https://hub.docker.com/r/1aughingbird543/email-service), [api-gateway](https://hub.docker.com/r/1aughingbird543/api-gateway), [ai-queue](https://hub.docker.com/r/1aughingbird543/ai-queue), [Backend Github](https://github.com/Codename25)
+8) links to Frontend(Made by Illia): [illiamartynov/startup](https://github.com/illiamartynov/startup)
+9) [link for testing scripts](https://github.com/AlexandrMilko/codename25other)
 ## Application Components
 
 1. **codename25 Repo**  
